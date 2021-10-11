@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## `Link to the project`
+
+project is deployed at [http://buncy.github.io/react_typescript](http://buncy.github.io/react_typescript)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -29,6 +34,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `Link to the project`
-
-project is deployed at [http://buncy.github.io/react_typescript](http://buncy.github.io/react_typescript)
