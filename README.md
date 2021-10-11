@@ -31,4 +31,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `Link to the project`
 
-    project is deployed at [http://buncy.github.io/react_typescript](http://buncy.github.io/react_typescript)
+project is deployed at [http://buncy.github.io/react_typescript](http://buncy.github.io/react_typescript)
